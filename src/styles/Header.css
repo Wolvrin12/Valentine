@@ -1,0 +1,24 @@
+.header {
+  width: 100vw;
+  height: auto;
+  padding: 0 150px 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #fa7676;
+  text-decoration: underline;
+  font-size: 125px;
+  font-family: Valentine, sans-serif;
+}
+
+.lovely_intro {
+  font-size: larger;
+  text-align: center;
+  font-weight: 700;
+  line-height: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

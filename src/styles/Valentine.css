@@ -1,0 +1,43 @@
+.valentine {
+  width: 100vw;
+  height: auto;
+  padding: 25px 150px 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.valentine_title {
+  color: #9b4444;
+  font-size: 100px;
+  text-align: center;
+  font-family: Valentine, sans-serif;
+  padding-bottom: 50px;
+}
+
+.valentine_question {
+  color: #294b29;
+  font-size: 30px;
+  text-align: center;
+  font-family: Valentine, sans-serif;
+  padding-bottom: 50px;
+}
+
+.valentine_button {
+  font-size: x-large;
+  padding: 15px;
+  margin-bottom: 50px;
+  border-radius: 15px;
+  background: #3b3486;
+  color: #ffffff;
+}
+
+.valentine_respond {
+  color: #7e2553;
+  font-size: 30px;
+  text-align: center;
+  font-family: Valentine, sans-serif;
+  padding-bottom: 50px;
+  transition: all 5s;
+}
